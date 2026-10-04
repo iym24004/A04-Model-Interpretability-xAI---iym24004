@@ -1,6 +1,6 @@
 # A04: Model Interpretability (xAI)
 
-**OPIM 5512 – Applied Data Science, University of Connecticut (Fall 2026)**  
+**OPIM 5512 – Data Science using Python, University of Connecticut (Fall 2026)**  
 **Author:** Parvathi Meghanath
 
 ## Overview
